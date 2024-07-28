@@ -3,9 +3,16 @@ Pharmacare Project: Enhancing Doctor-Medical Shop Relations  This repository con
 Key Features:
 
 Doctor Management: Registration, profile management, and prescription generation.
+
+
 Medical Shop Management: Registration, inventory management, and order fulfillment.
+
 Prescription Handling: Digital prescription creation, medication history tracking, and patient-specific alerts.
+
 Ordering and Delivery: Secure prescription transmission, order confirmation, and delivery management.
+
 Analytics and Reporting: Insights into prescription patterns, inventory turnover, and sales trends.
+
 Compliance and Security: Regulatory adherence (e.g., HIPAA), data protection, and secure communication channels.
+
 Feedback and Review System: User feedback mechanisms for doctors and medical shops.
